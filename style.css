@@ -60,7 +60,7 @@ header #menu{
 }
 
 #first{
-  background: black url(img/abstr.gif) no-repeat;
+  background: black url(/abstr.gif) no-repeat;
   background-size: 100% 100%;
   background-position: center;
   height: 100%;
