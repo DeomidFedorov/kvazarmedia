@@ -5,28 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Kvazar Media</title>
-  <link rel="stylesheet" href="/css/style.css">
-
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-
-  <script>
-    /*$(document).ready (function() {
-      $("#done ").click (function () {
-        var name = $("#name") val ();
-        var phone = $("#phone") val ();
-        var fail = "";
-        if (name.length < 2) fail = "Имя не меньше 2 символов";
-        else if (phone.length < 1) fail = "Введите номер телефона";
-        else if (phone.length > 0 | phone.length < 3) fail = "Номер телефона некорректный";
-        if (fail != "") {
-          $("#messageShow").html (fail + "<div class="clear"><br></div>");
-          $("#messageShow").show ();
-          return false;
-        }
-      })
-    });
-*/
-  </script>
+  <link rel="stylesheet" href="/style.css">
 
 </head>
 <body>
